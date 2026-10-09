@@ -1,0 +1,233 @@
+{
+  "fighters": [
+    {
+      "name": "Aldous",
+      "img": "https://github.com/Mexi23/HeroLQup/raw/main/img_202341317156.png",
+      "link": [
+        { "name": "Elite", "img": "https://github.com/Mexi23/50kb-images/raw/main/img_2022725222922.jpg", "link": "https://github.com/Mexi23/Fighter-1/raw/main/AldousElite.zip" },
+        { "name": "Starlight", "img": "https://github.com/Mexi23/50kb-images/raw/main/img_2022725222931.jpg", "link": "https://github.com/Mexi23/Fighter-1/raw/main/AldousStarlight.zip" },
+        { "name": "Blazing", "img": "https://github.com/Mexi23/50kb-images/raw/main/img_2022725222942.jpg", "link": "https://github.com/Mexi23/NewSkins/raw/main/aldous_blazing.zip" },
+        { "name": "Transformer", "img": "https://github.com/Mexi23/50kb-images/raw/main/img_2022725223158.jpg", "link": "https://github.com/Mexi23/fighterD/raw/main/aldous_def_trans.zip" },
+        { "name": "M1", "img": "https://github.com/Mexi23/50kb-images/raw/main/img_2022725222937.jpg", "link": "https://github.com/Mexi23/Fighter-1/raw/main/AldousM1.zip" },
+        { "name": "Mist", "img": "https://github.com/Mexi23/Dcmbr/raw/main/img_20231110131520.png", "link": "https://github.com/Mexi23/Updated_skins/raw/main/aldous_mistbender.zip" },
+        { "name": "Collector", "img": "https://github.com/Mexi23/50kb-images/raw/main/img_2022725222949.jpg", "link": "https://github.com/Mexi23/fighterD/raw/main/Aldous_def_collector.zip" }
+      ]
+    },
+    {
+      "name": "Alpha",
+      "img": "https://github.com/Mexi23/HeroImages/raw/main/Rounded_20240321_211816.png",
+      "link": [
+        { "name": "Abyss", "img": "https://github.com/Mexi23/50kb-images/raw/main/img_2022725224513.jpg", "link": "https://github.com/missnapokita/june-2024/raw/main/alpha%20abys.zip" },
+        { "name": "Starlight", "img": "https://github.com/Mexi23/Def_Sounds/raw/main/img_202391720488.png", "link": "https://github.com/Mexi23/AugUpdate/raw/main/alpha_def_starlight.zip" },
+        { "name": "Special", "img": "https://github.com/Mexi23/50kb-images/raw/main/img_202272522458.jpg", "link": "https://github.com/Mexi23/Fighter-1/raw/main/AlphaSpecial.zip" },
+        { "name": "Epic", "img": "https://github.com/Mexi23/FighterImagesLQ/raw/main/img_202341305949.png", "link": "https://github.com/missnapokita/june-2024/raw/main/alpha%20epic.zip" },
+        { "name": "Season", "img": "https://github.com/Mexi23/50kb-images/raw/main/img_202272522452.jpg", "link": "https://github.com/Mexi23/Fighter-1/raw/main/AlphaSeason.zip" },
+        { "name": "Collector", "img": "https://github.com/Mexi23/april2024/raw/main/Rounded_20240423_001524.png", "link": "https://github.com/Mexi23/GitInjector/raw/main/alpha_def_collector.zip" },
+        { "name": "Legend", "img": "https://github.com/Mexi23/March_new/raw/refs/heads/main/Rounded_20250326_143414.png", "link": "https://github.com/Mexi23/AugustUpdate/raw/refs/heads/main/alphaRevenant.zip" }
+      ]
+    },
+    {
+      "name": "Argus",
+      "img": "https://github.com/Mexi23/HeroImages/raw/main/Rounded_20240321_212516.png",
+      "link": [
+        { "name": "Elite", "img": "https://github.com/Mexi23/50kb-images/raw/main/img_2022725225526.jpg", "link": "https://github.com/missnapokita/june-2024/raw/main/argus%20elite.zip" },
+        { "name": "Starlight", "img": "https://github.com/Mexi23/50kb-images/raw/main/img_2022725225520.jpg", "link": "https://github.com/Mexi23/Updated_skins/raw/main/argus_starlight.zip" },
+        { "name": "Star Wars", "img": "https://github.com/Mexi23/50kb-images/raw/main/img_2022725225535.jpg", "link": "https://github.com/Mexi23/Updated_skins/raw/main/argus_starwars.zip" },
+        { "name": "Season", "img": "https://github.com/Mexi23/fighterD/raw/main/img_202391622404.png", "link": "https://github.com/Mexi23/fighterD/raw/main/argus_def_seasonN.zip" }
+      ]
+    },
+    {
+      "name": "Aulus",
+      "img": "https://github.com/Mexi23/HeroImages/raw/main/Rounded_20240321_212024.png",
+      "link": [
+        { "name": "Basic", "img": "https://github.com/Mexi23/50kb-images/raw/main/img_202272523164.jpg", "link": "https://github.com/Mexi23/Fighter-1/raw/main/AulusBasic.zip" },
+        { "name": "Elite", "img": "https://github.com/Mexi23/50kb-images/raw/main/img_2022725231558.jpg", "link": "https://github.com/missnapokita/june-2024/raw/main/aulus%20elite.zip" },
+        { "name": "Special", "img": "https://github.com/Mexi23/2023-skins/raw/main/img_202211202118_11zon.png", "link": "https://github.com/missnapokita/june-2024/raw/main/aulos%20special.zip" }
+      ]
+    },
+    {
+      "name": "Badang",
+      "img": "https://github.com/Mexi23/HeroImages/raw/main/Rounded_20240321_212031.png",
+      "link": [
+        { "name": "Pegasus", "img": "https://github.com/Mexi23/FighterImagesLQ/raw/main/img_202341302913.png", "link": "https://github.com/Mexi23/fighterD/raw/main/badang_def_Bseiya.zip" },
+        { "name": "Sagittarius", "img": "https://github.com/Mexi23/FighterImagesLQ/raw/main/img_202341302921.png", "link": "https://github.com/Mexi23/fighterD/raw/main/badang_def_Yseiya.zip" },
+        { "name": "Special", "img": "https://github.com/Mexi23/images-fighters/raw/main/img_2022725234040.png", "link": "https://github.com/Mexi23/Fighter-1/raw/main/BadangSpecial.zip" },
+        { "name": "Collector", "img": "https://github.com/Mexi23/50kb-images/raw/main/img_2022725233832.jpg", "link": "https://github.com/missnapokita/june-2024/raw/main/badang%20collector.zip" },
+        { "name": "Zodiac", "img": "https://github.com/Mexi23/50kb-images/raw/main/img_2022725234046.jpg", "link": "https://github.com/missnapokita/june-2024/raw/main/badang%20zodiac.zip" },
+        { "name": "Steel Arm", "img": "https://raw.githubusercontent.com/Mexi23/AugustUpdate/refs/heads/main/badang%20Portrait.png", "link": "https://github.com/Mexi23/AugustUpdate/raw/refs/heads/main/badangSteelArm.zip" }
+      ]
+    },
+    {
+      "name": "Balmond",
+      "img": "https://github.com/Mexi23/HeroImages/raw/main/Rounded_20240321_212036.png",
+      "link": [
+        { "name": "Elite", "img": "https://github.com/Mexi23/FighterImagesLQ/raw/main/img_202272523499.png", "link": "https://github.com/Mexi23/skinupdate/raw/main/balmond_ghoulfury.zip" },
+        { "name": "Starlight", "img": "https://github.com/Mexi23/FighterImagesLQ/raw/main/img_2022725234939.png", "link": "https://github.com/Mexi23/skinupdate/raw/main/balmond_bioroid.zip" },
+        { "name": "Special", "img": "https://github.com/Mexi23/FighterImagesLQ/raw/main/img_2022725234929.png", "link": "https://github.com/Mexi23/skinupdate/raw/main/balmond_savagepointguard.zip" },
+        { "name": "Epic", "img": "https://github.com/Mexi23/JanuaryV2/raw/main/img_20240593932.png", "link": "https://github.com/Mexi23/skinupdate/raw/main/balmond_infernalwarlord.zip" },
+        { "name": "Savage", "img": "https://github.com/Mexi23/FighterImagesLQ/raw/main/img_2022725234914.png", "link": "https://github.com/Mexi23/skinupdate/raw/main/balmond_savagehunter.zip" },
+        { "name": "Collector", "img": "https://github.com/Mexi23/FighterImagesLQ/raw/main/img_2022725234923.png", "link": "https://github.com/Mexi23/skinupdate/raw/main/balmond_collector.zip" }
+      ]
+    },
+    {
+      "name": "Bane",
+      "img": "https://github.com/Mexi23/HeroImages/raw/main/Rounded_20240321_212044.png",
+      "link": [
+        { "name": "Elite", "img": "https://github.com/Mexi23/FighterImagesLQ/raw/main/img_20227260821.png", "link": "https://github.com/Mexi23/Fighter-1/raw/main/BaneElite.zip" },
+        { "name": "Frozen", "img": "https://github.com/Mexi23/skins-with-logo/raw/main/img_20230327_234540432.png", "link": "https://github.com/Mexi23/fighterD/raw/main/bane_def_NewEpic.zip" },
+        { "name": "Epic", "img": "https://github.com/Mexi23/FighterImagesLQ/raw/main/img_20227260753.png", "link": "https://github.com/Mexi23/fighterD/raw/main/bane_def_epic.zip" },
+        { "name": "Season", "img": "https://github.com/Mexi23/FighterImagesLQ/raw/main/img_2022726085.png", "link": "https://github.com/Mexi23/Fighter-1/raw/main/BaneSeason.zip" }
+      ]
+    },
+    {
+      "name": "Chou",
+      "img": "https://github.com/Mexi23/Anime-skins/raw/main/img_20230114_202532394.png",
+      "link": [
+        { "name": "Basic", "img": "https://github.com/Mexi23/FighterImagesLQ/raw/main/img_2022726102752.png", "link": "https://github.com/Mexi23/Fighter-1/raw/main/ChouBasic.zip" },
+        { "name": "Elite", "img": "https://github.com/Mexi23/FighterImagesLQ/raw/main/img_202272610286.png", "link": "https://github.com/Mexi23/fighterD/raw/main/chou_def_eliteN.zip" },
+        { "name": "Starlight", "img": "https://github.com/Mexi23/FighterImagesLQ/raw/main/img_2022726102825.png", "link": "https://github.com/Mexi23/Fighter-1/raw/main/ChouStarlight.zip" },
+        { "name": "Special", "img": "https://github.com/Mexi23/FighterImagesLQ/raw/main/img_2022726102813.png", "link": "https://github.com/Mexi23/fighterD/raw/main/chou_def_specialN.zip" },
+        { "name": "Epic", "img": "https://github.com/Mexi23/FighterImagesLQ/raw/main/img_2022726102759.png", "link": "https://github.com/Mexi23/fighterD/raw/main/chou_def_epicN.zip" },
+        { "name": "KOF", "img": "https://github.com/Mexi23/FighterImagesLQ/raw/main/img_2022726102819.png", "link": "https://github.com/Mexi23/AugustUpdate/raw/refs/heads/main/chouKOF.zip" },
+        { "name": "Echo", "img": "https://github.com/Mexi23/AugUpdate/raw/main/img_202372320381.png", "link": "https://github.com/Mexi23/Def_Sounds/raw/main/chou_def_echo.zip" },
+        { "name": "Hero", "img": "https://github.com/Mexi23/AugUpdate/raw/main/img_2023723204236.png", "link": "https://github.com/Mexi23/fighterD/raw/main/chou_def_hero.zip" },
+        { "name": "Stun", "img": "https://github.com/Mexi23/FighterImagesLQ/raw/main/img_2022726102837.png", "link": "https://github.com/Mexi23/fighterD/raw/main/chou_default_stun.zip" },
+        { "name": "Dragon", "img": "https://github.com/Mexi23/FighterImagesLQ/raw/main/img_202341302842.png", "link": "https://github.com/Mexi23/skinupdate/raw/main/chou_dragonshiryu.zip" },
+        { "name": "Libra", "img": "https://github.com/Mexi23/FighterImagesLQ/raw/main/img_202341302851.png", "link": "https://github.com/Mexi23/skinupdate/raw/main/chou_libra.zip" }
+      ]
+    },
+    {
+      "name": "Cici",
+      "img": "https://github.com/Mexi23/HeroImages/raw/main/Rounded_20240321_212053.png",
+      "link": [
+        { "name": "Basic", "img": "https://github.com/Mexi23/February/raw/main/img_20241415515.png", "link": "https://github.com/Mexi23/February/raw/main/cici_def_basic.zip" }
+      ]
+    },
+    {
+      "name": "Dyroth",
+      "img": "https://github.com/Mexi23/Anime-skins/raw/main/img_20230114_202532376.png",
+      "link": [
+        { "name": "Basic", "img": "https://github.com/Mexi23/FighterImagesLQ/raw/main/img_2022726102852.png", "link": "https://github.com/Mexi23/skinupdate/raw/main/dyroth_basic.zip" },
+        { "name": "Starlight", "img": "https://github.com/Mexi23/FighterImagesLQ/raw/main/img_202272610294.png", "link": "https://github.com/Mexi23/skinupdate/raw/main/dyroth_starlight.zip" },
+        { "name": "Epic", "img": "https://github.com/Mexi23/FighterImagesLQ/raw/main/img_202272610299.png", "link": "https://github.com/Mexi23/skinupdate/raw/main/dyroth_venom.zip" },
+        { "name": "KOF", "img": "https://github.com/Mexi23/FighterImagesLQ/raw/main/img_2022726102858.png", "link": "https://github.com/Mexi23/AugustUpdate/raw/refs/heads/main/dyrothKOF.zip" },
+        { "name": "Collector", "img": "https://github.com/Mexi23/Def_Sounds/raw/main/img_2023917204814.png", "link": "https://github.com/Mexi23/March_new/raw/refs/heads/main/dyroth_collector.zip" },
+        { "name": "Gon", "img": "https://github.com/Mexi23/new-skins/raw/refs/heads/main/img_20241209_134452990.png", "link": "https://github.com/Mexi23/March_new/raw/refs/heads/main/dyroth_gon.zip" }
+      ]
+    },
+    {
+      "name": "Fredrin",
+      "img": "https://github.com/Mexi23/HeroImages/raw/main/Rounded_20240321_212126.jpg",
+      "link": [
+        { "name": "Basic", "img": "https://github.com/Mexi23/FighterImagesLQ/raw/main/img_20227278236.png", "link": "https://github.com/Mexi23/GitInjector/raw/main/fredrin_def_basic.zip" },
+        { "name": "Elite", "img": "https://github.com/Mexi23/new-added/raw/main/img_20230307_235932989.png", "link": "https://github.com/Mexi23/new-added/raw/main/fredrinELITE.zip" },
+        { "name": "Neo Beast", "img": "https://github.com/Mexi23/Def_Sounds/raw/main/img_2023917204725.png", "link": "https://github.com/Mexi23/AugustUpdate/raw/refs/heads/main/fredrinNeo.zip" },
+        { "name": "Sparkle", "img": "https://github.com/Mexi23/GitInjector/raw/main/Rounded_20240324_163751.png", "link": "https://github.com/Mexi23/AugustUpdate/raw/refs/heads/main/fredrinSparkle.zip" }
+      ]
+    },
+    {
+      "name": "Freya",
+      "img": "https://github.com/Mexi23/HeroImages/raw/main/Rounded_20240321_212233.png",
+      "link": [
+        { "name": "Elite", "img": "https://github.com/Mexi23/FighterImagesLQ/raw/main/img_2022726103026.png", "link": "https://github.com/Whocaresml123/fixed/raw/main/freya_elite.zip" },
+        { "name": "Starlight", "img": "https://github.com/Mexi23/FighterImagesLQ/raw/main/img_2022726102950.png", "link": "https://github.com/Whocaresml123/fixed/raw/main/freya_starlight.zip" },
+        { "name": "Special", "img": "https://github.com/Mexi23/FighterImagesLQ/raw/main/img_2022726102959.png", "link": "https://github.com/Whocaresml123/fixed/raw/main/freya_special.zip" },
+        { "name": "Epic", "img": "https://github.com/Mexi23/FighterImagesLQ/raw/main/img_202272610306.png", "link": "https://github.com/Mexi23/Updated_skins/raw/main/freya_warangelEpic.zip" },
+        { "name": "Legend", "img": "https://github.com/Mexi23/February/raw/main/img_202414155111.png", "link": "https://github.com/Whocaresml123/fixed/raw/main/freya_legend.zip" },
+        { "name": "Christmas", "img": "https://github.com/Mexi23/FighterImagesLQ/raw/main/img_2022726103032.png", "link": "https://github.com/Whocaresml123/fixed/raw/main/freya_christmas.zip" },
+        { "name": "Saber", "img": "https://github.com/Mexi23/FighterImagesLQ/raw/main/img_2022726103013.png", "link": "https://github.com/Whocaresml123/fixed/raw/main/freya_saber.zip" },
+        { "name": "Raven", "img": "https://github.com/Mexi23/FighterImagesLQ/raw/main/img_2022726112220.png", "link": "https://github.com/Whocaresml123/fixed/raw/main/freya_epic_ravenshogun.zip" }
+      ]
+    },
+    {
+      "name": "Guinevere",
+      "img": "https://github.com/Mexi23/HeroImages/raw/main/Rounded_20240321_215053.png",
+      "link": [
+        { "name": "Basic", "img": "https://github.com/Mexi23/FighterImagesLQ/raw/main/img_2022726132836.png", "link": "https://github.com/Mexi23/skinupdate/raw/main/guineverre_basic.zip" },
+        { "name": "Sakura", "img": "https://github.com/Mexi23/FighterImagesLQ/raw/main/img_2022726132917.png", "link": "https://github.com/Mexi23/Fighter-1/raw/main/GuinevereSpecialSakuraWishes.zip" },
+        { "name": "Starlight", "img": "https://github.com/Mexi23/FighterImagesLQ/raw/main/img_2022726132850.png", "link": "https://github.com/Mexi23/skinupdate/raw/main/guineverre_starlight.zip" },
+        { "name": "Special", "img": "https://github.com/Mexi23/FighterImagesLQ/raw/main/img_2022726132857.png", "link": "https://github.com/Mexi23/Fighter-1/raw/main/GuinevereSpecialAmethystDance.zip" },
+        { "name": "Epic", "img": "https://github.com/Mexi23/FighterImagesLQ/raw/main/img_2022726132910.png", "link": "https://github.com/Mexi23/skinupdate/raw/main/guineverre_ladycrane.zip" },
+        { "name": "Summer", "img": "https://github.com/Mexi23/FighterImagesLQ/raw/main/img_2022726132925.png", "link": "https://github.com/Mexi23/skinupdate/raw/main/guineverre_summer.zip" },
+        { "name": "KOF", "img": "https://github.com/Mexi23/FighterImagesLQ/raw/main/img_2022726132843.png", "link": "https://github.com/Mexi23/NewSkins/raw/main/guineverre_kof.zip" },
+        { "name": "Legend", "img": "https://github.com/Mexi23/FighterImagesLQ/raw/main/img_2022726134016.png", "link": "https://github.com/Mexi23/skinupdate/raw/main/guineverre_legend.zip" },
+        { "name": "Twilight", "img": "https://github.com/Mexi23/SeptUpdate/raw/refs/heads/main/guinevere.png", "link": "https://github.com/Mexi23/SeptUpdate/raw/refs/heads/main/4guinTwilight.zip" }
+      ]
+    },
+    {
+      "name": "Hilda",
+      "img": "https://github.com/Mexi23/HeroImages/raw/main/Rounded_20240321_215128.png",
+      "link": [
+        { "name": "Elite", "img": "https://github.com/Mexi23/FighterImagesLQ/raw/main/img_2022726132955.png", "link": "https://github.com/Mexi23/Fighter-1/raw/main/HildaElite.zip" },
+        { "name": "Special", "img": "https://github.com/Mexi23/FighterImagesLQ/raw/main/img_2022726133010.png", "link": "https://github.com/Mexi23/fighterD/raw/main/hilda_def_special.zip" },
+        { "name": "Zodiac", "img": "https://github.com/Mexi23/FighterImagesLQ/raw/main/img_202272613303.png", "link": "https://github.com/Mexi23/fighterD/raw/main/hilda_def_zodiac.zip" },
+        { "name": "Season", "img": "https://github.com/Mexi23/FighterImagesLQ/raw/main/img_2022726132947.png", "link": "https://github.com/Mexi23/Fighter-1/raw/main/HildaSeason.zip" }
+      ]
+    },
+    {
+      "name": "Jawhead",
+      "img": "https://github.com/Mexi23/HeroImages/raw/main/Rounded_20240321_215118.png",
+      "link": [
+        { "name": "Elite", "img": "https://github.com/Mexi23/FighterImagesLQ/raw/main/img_2022726133046.png", "link": "https://github.com/Mexi23/Fighter-1/raw/main/JawheadElite.zip" },
+        { "name": "Starlight", "img": "https://github.com/Mexi23/FighterImagesLQ/raw/main/img_202272613319.png", "link": "https://github.com/Mexi23/Fighter-1/raw/main/JawheadStarlight.zip" },
+        { "name": "Special", "img": "https://github.com/Mexi23/FighterImagesLQ/raw/main/img_2022726133053.png", "link": "https://github.com/Mexi23/Fighter-1/raw/main/JawheadSpecialTheNutcracker.zip" },
+        { "name": "Collector", "img": "https://github.com/Mexi23/FighterImagesLQ/raw/main/img_202272613312.png", "link": "https://github.com/Mexi23/fighterD/raw/main/jh_def_collector.zip" },
+        { "name": "MPL", "img": "https://github.com/Mexi23/FighterImagesLQ/raw/main/img_2022726133116.png", "link": "https://github.com/Mexi23/Fighter-1/raw/main/jawhead%20mpl.zip" },
+        { "name": "Season", "img": "https://github.com/Mexi23/New-Skins-June-8/raw/main/Rounded_20240614_142207.png", "link": "https://github.com/Mexi23/New-Skins-June-8/raw/main/jh_def_season.zip" },
+        { "name": "Dino", "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/90/Hero105410-portrait.png/revision/latest/scale-to-width-down/150?cb=20250430132254", "link": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J3%20Jawhead%20AllStar.zip" }
+      ]
+    },
+    {
+      "name": "Kalea",
+      "img": "https://github.com/Mexi23/April_updt/raw/refs/heads/main/kalea.png",
+      "link": [
+        { "name": "Sakura", "img": "https://github.com/Mexi23/April_updt/raw/refs/heads/main/sakura.png", "link": "https://github.com/Mexi23/April_updt/raw/refs/heads/main/kalea_sakura.zip" }
+      ]
+    },
+    {
+      "name": "Khaleed",
+      "img": "https://github.com/Mexi23/HeroImages/raw/main/Rounded_20240321_212204.png",
+      "link": [
+        { "name": "Basic", "img": "https://github.com/Mexi23/FighterImagesLQ/raw/main/img_2022726153234.png", "link": "https://github.com/Mexi23/Fighter-1/raw/main/KhaleedBasic.zip" },
+        { "name": "Elite", "img": "https://github.com/Mexi23/FighterImagesLQ/raw/main/img_2022726153239.png", "link": "https://github.com/Mexi23/Fighter-1/raw/main/KhaleedElite.zip" },
+        { "name": "Epic", "img": "https://github.com/Mexi23/april2024/raw/main/Rounded_20240423_004002.png", "link": "https://github.com/Mexi23/april2024/raw/main/khaleed_def_epic.zip" }
+      ]
+    },
+    {
+      "name": "Lapu-Lapu",
+      "img": "https://github.com/Mexi23/HeroImages/raw/main/Rounded_20240321_215122.png",
+      "link": [
+        { "name": "Elite", "img": "https://github.com/Mexi23/FighterImagesLQ/raw/main/img_2022726153812.png", "link": "https://github.com/Mexi23/Fighter-1/raw/main/LapuLapuElite.zip" },
+        { "name": "Starlight", "img": "https://github.com/Mexi23/FighterImagesLQ/raw/main/img_2022726153827.png", "link": "https://github.com/Mexi23/Fighter-1/raw/main/LapuLapuStarlight.zip" },
+        { "name": "Special", "img": "https://github.com/Mexi23/FighterImagesLQ/raw/main/img_2022726153821.png", "link": "https://github.com/Mexi23/Fighter-1/raw/main/LapuLapuSpecial.zip" },
+        { "name": "Collector", "img": "https://github.com/Mexi23/JanuaryV2/raw/main/img_202402893248.png", "link": "https://github.com/Mexi23/JanuaryV2/raw/main/lapu_def_collector.zip" }
+      ]
+    },
+    {
+      "name": "Leomord",
+      "img": "https://github.com/Mexi23/Anime-skins/raw/main/img_20230114_202532358.png",
+      "link": [
+        { "name": "Jack", "img": "https://github.com/Mexi23/FighterImagesLQ/raw/main/img_2022726153929.png", "link": "https://github.com/Mexi23/fighterD/raw/main/leo_def_jacko.zip" },
+        { "name": "Starlight", "img": "https://github.com/Mexi23/FighterImagesLQ/raw/main/img_202272615396.png", "link": "https://github.com/Mexi23/Fighter-1/raw/main/LeomordStarlight.zip" },
+        { "name": "Special", "img": "https://github.com/Mexi23/FighterImagesLQ/raw/main/img_2022726153915.png", "link": "https://github.com/Mexi23/Fighter-1/raw/main/LeomordMSC.zip" },
+        { "name": "Epic", "img": "https://github.com/Mexi23/fighterD/raw/main/img_2023916223959.png", "link": "https://github.com/Mexi23/fighterD/raw/main/leo_def_epic.zip" },
+        { "name": "Abyss", "img": "https://github.com/Mexi23/2023-skins/raw/main/img_202211202113_11zon.png", "link": "https://github.com/Mexi23/fighterD/raw/main/leo_def_abyss.zip" },
+        { "name": "Ducati", "img": "https://github.com/Mexi23/October2024/raw/refs/heads/main/img_20241013_124131230.png", "link": "https://github.com/Mexi23/October2024/raw/refs/heads/main/leo_ducati_def.zip" },
+        { "name": "Twilight", "img": "https://github.com/Mexi23/March_new/raw/refs/heads/main/Rounded_20250326_143359.png", "link": "https://github.com/Mexi23/March_new/raw/refs/heads/main/leomord_epic.zip" }
+      ]
+    },
+    {
+      "name": "Lucas",
+      "img": "https://github.com/Mexi23/2025Img/raw/refs/heads/main/Rounded_20250201_192519.png",
+      "link": [
+        { "name": "Basic", "img": "https://github.com/Mexi23/2025Img/raw/refs/heads/main/Rounded_20250201_192509.png", "link": "https://github.com/gg0521/gg/raw/main/lukas_basic.zip" },
+        { "name": "Naruto", "img": "https://github.com/Mexi23/April_updt/raw/refs/heads/main/naruto.png", "link": "https://github.com/Mexi23/April_updt/raw/refs/heads/main/lukas_naruto.zip" }
+      ]
+    },
+    {
+      "name": "Martis",
+      "img": "https://github.com/Mexi23/HeroImages/raw/main/Rounded_20240321_212105.png",
+      "link": [
+        { "name": "AOT", "img": "https://github.com/Mexi23/February/raw/main/img_20241214364.png", "link": "https://github.com/missnapokita/Fix-Skins/raw/main/Martis%20AOT.zip" },
+        { "name": "Starlight", "img": "https://github.com/Mexi23/FighterImagesLQ/raw/main/img_2022726192128.png", "link": "https://github.com/missnapokita/Fix-Skins/raw/main/Martis%20Starlight.zip" },
+        { "name": "Special", "img": "https://github.com/Mexi23/FighterImagesLQ/raw/main/img_2022726192311.png", "link": "https://github.com/missnap
